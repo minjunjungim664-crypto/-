@@ -1,0 +1,6 @@
+{
+  "name": "Serene Study",
+  "description": "집중 & 데시벨 모니터링 - 독서실, 스터디카페 수험생을 위한 실시간 소음 측정 및 뽀모도로 타이머",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
